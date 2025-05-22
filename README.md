@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/1024px-Fedora_icon_%282021%29.svg.png" alt="Fedora" width="40"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" alt="Neovim"/>
 &nbsp;&nbsp;
@@ -41,6 +41,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" alt="Godot"/>
 &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" width="40" alt="Blender"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="40" alt="Linux"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/1024px-Heckert_GNU_white.svg.png" width="40" alt="GNU">
 
 </div>
 
