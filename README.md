@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://w.wallhaven.cc/full/we/wallhaven-weprlq.jpg" width="100%" alt="Banner futurista"/>
+  <img src="" wi-th="100%" alt="Banner futurista"/>
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Jatniel Abisai Cruz Morales</h1>
@@ -50,7 +50,7 @@
 
 | Proyecto | Descripción | Vista |
 |---------|-------------|--------|
-| 🎮 **Mi videojuego indie** | Juego basado en héroes olvidados. Pixel art, historia profunda y mecánicas retro. | ![Juego](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif) |
+| 🎮 **Mi videojuego ultrarealista (Proximamente)** | Juego con historia buena. Buena jugabilidad, y mecánicas buenas. | ![Juego](https://i.imgur.com/LVKvjL6.gif) |
 | 🌐 **Portafolio web** | Hecho en HTML, CSS, JS, y amor al detalle. | ![Web](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
 
 ---
