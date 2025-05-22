@@ -3,7 +3,7 @@
 <h3 align="center">🧠 Desarrollador Principiante | 🎮 Creador de videojuegos (casi) | 🐧 Usuario de Linux | ✍️ Etcetera</h3>
 
 <p align="center">
-  <img src="" width="250" />
+  <img src="https://wallhaven.cc/w/weprlq" width="500" />
 </p>
 
 
