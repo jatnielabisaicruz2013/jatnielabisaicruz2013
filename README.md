@@ -20,7 +20,7 @@
 - 💻 **Sistema operativo principal:**
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora Logo" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/1024px-Fedora_icon_%282021%29.svg.png" alt="Fedora Logo" width="60"/>
   <strong style="font-size: 18px;"> Fedora Linux 42 (Workstation Edition)</strong>
 </p>
 
