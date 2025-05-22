@@ -40,7 +40,7 @@
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" alt="Godot"/>
 &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg" width="40" alt="Blender"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" width="40" alt="Blender"/>
 
 </div>
 
