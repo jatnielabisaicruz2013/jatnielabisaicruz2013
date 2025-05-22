@@ -1,26 +1,28 @@
-
-<h1 align="center">👋 ¡Hola! Soy Jatniel Abisai Cruz Morales, o mejor llamado aqui en GitHub (jatnielabisaicruz2013)</h1>
-<h3 align="center">🧠 Desarrollador Principiante | 🎮 Creador de videojuegos (casi) | 🐧 Usuario de Linux | ✍️ Etcetera</h3>
-
+<!-- Banner principal -->
 <p align="center">
-  <img src="https://w.wallhaven.cc/full/we/wallhaven-weprlq.png" width="500" />
+  <img src="https://w.wallhaven.cc/full/we/wallhaven-weprlq.jpg" width="100%" alt="Banner futurista"/>
 </p>
 
+<h1 align="center">👋 ¡Hola! Soy Jatniel Abisai Cruz Morales</h1>
+<h3 align="center">(aquí en GitHub como <code>jatnielabisaicruz2013</code>)</h3>
+
+<p align="center">
+  🧠 Desarrollador Principiante | 🎮 Creador de videojuegos (casi) | 🐧 Usuario de Linux | ✍️ Creativo digital
+</p>
 
 ---
 
 ## 👤 Sobre mí
 
 - 🎂 **Fecha de nacimiento:** 19 de Noviembre del 2013  
-- 🌍 **Ubicación:** Atizapan de Zaragoza, Estadode México, México 🇲🇽  
+- 🌍 **Ubicación:** Atizapán de Zaragoza, Estado de México, México 🇲🇽  
 - 🧩 **Pasiones:** Juegos, pixel art, desarrollo indie, código limpio  
-- 💻 Sistema operativo principal
+- 💻 **Sistema operativo principal:**
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora Logo" width="60"/>
   <strong style="font-size: 18px;"> Fedora Linux 42 (Workstation Edition)</strong>
 </p>
-
 
 ---
 
@@ -37,13 +39,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" alt="Godot"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg" width="40" alt="Blender (apenas comenzando UnU)">
+&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg" width="40" alt="Blender"/>
 
 </div>
 
+---
+
 ## 📸 Proyectos y cosas cool
 
-| Proyecto | Descripción | Imagen |
+| Proyecto | Descripción | Vista |
 |---------|-------------|--------|
 | 🎮 **Mi videojuego indie** | Juego basado en héroes olvidados. Pixel art, historia profunda y mecánicas retro. | ![Juego](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif) |
 | 🌐 **Portafolio web** | Hecho en HTML, CSS, JS, y amor al detalle. | ![Web](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
@@ -53,27 +58,31 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide=issues" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jatnielabisaicruz2013&show_icons=true&theme=tokyonight&hide=issues" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatnielabisaicruz2013&theme=tokyonight" />
 </p>
 
-## 🏢 Empresa Proxima que hare 
+---
+
+## 🏢 Próxima empresa que haré
+
+**Correcaminos y sus amigos S.A. de C.V.**  
+🎮 Videojuegos, herramientas, historias... ¡Y mucha creatividad por venir!
 
 ---
 
 ## 📫 Contacto
 
-- 💌 **Email:** [jatniel.abisai.c@gmail.com](mailto:jatniel.abisai.c@gmail.com)
-- 🌐 **Web (Proximamente):** [https://correcaminosysusamigos.mx](https://tu-sitio.com)
+- 💌 **Email:** [jatniel.abisai.c@gmail.com](mailto:jatniel.abisai.c@gmail.com)  
+- 🌐 **Web (Próximamente):** [https://correcaminosysusamigos.mx](https://correcaminosysusamigos.mx)  
 - 💬 ¡Siéntete libre de contactarme para colaborar o charlar!
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Gracias"/>
 </p>
 
 ---
 
 ⭐ *Gracias por visitar mi perfil. ¡El viaje apenas comienza!*
-
