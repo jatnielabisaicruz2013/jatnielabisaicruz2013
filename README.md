@@ -13,26 +13,31 @@
 - 🎂 **Fecha de nacimiento:** 20 de marzo de 2001  
 - 🌍 **Ubicación:** México 🇲🇽  
 - 🧩 **Pasiones:** Juegos, pixel art, desarrollo indie, código limpio  
-- 💻 **Sistema operativo principal:** Fedora Linux  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora Logo" width="40"/>
+- 💻 Sistema operativo principal
+
+<p align="left">
+  <img src="https://es.wikipedia.org/wiki/Fedora_(sistema_operativo)#/media/Archivo:Fedora_logo_(2021).svg" alt="Fedora Logo" width="60"/>
+  <strong style="font-size: 18px;"> Fedora Linux 39 (Workstation Edition)</strong>
+</p>
+
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías
 
 <div align="center">
 
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+<img src="https://es.wikipedia.org/wiki/Fedora_(sistema_operativo)#/media/Archivo:Fedora_logo_(2021).svg" alt="Fedora" width="40"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" alt="Neovim"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" alt="Godot"/>
 
 </div>
-
----
 
 ## 📸 Proyectos y cosas cool
 
