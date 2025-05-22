@@ -11,8 +11,8 @@
 
 ## 👤 Sobre mí
 
-- 🎂 **Fecha de nacimiento:** 20 de marzo de 2001  
-- 🌍 **Ubicación:** México 🇲🇽  
+- 🎂 **Fecha de nacimiento:** 19 de Noviembre del 2013  
+- 🌍 **Ubicación:** Atizapan de Zaragoza, Estadode México, México 🇲🇽  
 - 🧩 **Pasiones:** Juegos, pixel art, desarrollo indie, código limpio  
 - 💻 Sistema operativo principal
 
