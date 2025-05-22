@@ -63,7 +63,7 @@
 
 ## 📫 Contacto
 
-- 💌 **Email:** [jatniel.abisai.c@gmail.com](gmail:jatniel.abisai.c@gmail.com)
+- 💌 **Email:** [jatniel.abisai.c@gmail.com](mailto:jatniel.abisai.c@gmail.com)
 - 🌐 **Web (Proximamente):** [https://correcaminosysusamigos.mx](https://tu-sitio.com)
 - 💬 ¡Siéntete libre de contactarme para colaborar o charlar!
 
