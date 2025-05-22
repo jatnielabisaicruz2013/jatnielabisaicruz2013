@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="" wi-th="100%" alt="Banner futurista"/>
+  <img src="" wi-th="100%" alt=""/>
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Jatniel Abisai Cruz Morales</h1>
