@@ -1,6 +1,6 @@
 
-<h1 align="center">👋 ¡Hola! Soy [Tu Nombre]</h1>
-<h3 align="center">🧠 Desarrollador Indie | 🎮 Creador de videojuegos | 🐧 Usuario de Linux</h3>
+<h1 align="center">👋 ¡Hola! Soy Jatniel Abisai Cruz Morales, o mejor llamado aqui en GitHub (jatnielabisaicruz2013)</h1>
+<h3 align="center">🧠 Desarrollador Principiante | 🎮 Creador de videojuegos (casi) | 🐧 Usuario de Linux | ✍️ Etcetera</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A3FF&center=true&vCenter=true&width=500&lines=🚀+Apasionado+por+la+tecnología;🎨+Diseñador+de+mundos+digitales;🌌+Soñador+y+constructor" alt="Typing SVG" />
@@ -16,8 +16,8 @@
 - 💻 Sistema operativo principal
 
 <p align="left">
-  <img src="https://es.wikipedia.org/wiki/Fedora_(sistema_operativo)#/media/Archivo:Fedora_logo_(2021).svg" alt="Fedora Logo" width="60"/>
-  <strong style="font-size: 18px;"> Fedora Linux 39 (Workstation Edition)</strong>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora Logo" width="60"/>
+  <strong style="font-size: 18px;"> Fedora Linux 42 (Workstation Edition)</strong>
 </p>
 
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://es.wikipedia.org/wiki/Fedora_(sistema_operativo)#/media/Archivo:Fedora_logo_(2021).svg" alt="Fedora" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width="40"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" alt="Neovim"/>
 &nbsp;&nbsp;
@@ -36,6 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" alt="Godot"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg" width="40" alt="Blender (apenas comenzando UnU)">
 
 </div>
 
@@ -59,9 +60,8 @@
 
 ## 📫 Contacto
 
-- 💌 **Email:** [tucorreo@example.com](mailto:tucorreo@example.com)
-- 🌐 **Web:** [https://tu-sitio.com](https://tu-sitio.com)
-- 🐦 **Twitter/X:** [@tuusuario](https://twitter.com/tuusuario)
+- 💌 **Email:** [atniel.abisai.c@gmail.com](mailto:jatniel.abisai.c@gmail.com)
+- 🌐 **Web (Proximamente):** [https://correcaminosysusamigos.mx](https://tu-sitio.com)
 - 💬 ¡Siéntete libre de contactarme para colaborar o charlar!
 
 ---
